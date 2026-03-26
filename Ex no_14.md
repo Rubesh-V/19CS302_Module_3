@@ -1,5 +1,5 @@
 # EX 14 C program to delete first element in an array.
-## DATE:29/04/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to delete first element in an array.
 
